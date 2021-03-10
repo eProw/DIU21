@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   José Antonio Sánchez Suárez     :octocat:     
- * :bust_in_silhouette:  Weibin Wu     :octocat:
+ * :bust_in_silhouette:   José Antonio Sánchez Suárez     :octocat:	https://github.com/eProw
+ * :bust_in_silhouette:  Weibin Wu     :octocat:	https://github.com/Wei-bin-Wu
 
 ----- 
 
