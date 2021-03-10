@@ -29,6 +29,17 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+Analizamos brevemente las x plataformas o instituciones de información turísticas siguentes:
+
+A destacar: idioma muy importante para este tipo de páginas, objetivo es alcanzar al mayor número de personas posible y que
+sea accesible
+
+-https://www.turgranada.es/ <---- (+ idiomas y buen diseño de presentacion, app, permite registro y guardado de informacion propia, - informacion demasiado variada, compleja lectura completa de textos y busqueda de informacion concreta)
+-http://www.morosycristianosbenamaurel.com/ (+ portada, app, especializado en eventos particulares, - no tiene más idiomas, solo informacion de eventos)
+-https://www.jaenparaisointerior.es/ (- no hay app, diseño pobre, + idioma escaso)
+
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
