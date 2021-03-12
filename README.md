@@ -49,7 +49,7 @@ sea accesible
 | Personalización         | SI         | NO | NO |
 | Contenido Especializado | NO         | SI | NO |
 | Apariencia              | DISEÑADO   | DISEÑADO | NORMAL |
-| Redes Sociales Oficiales| SI         | NO | SI |
+| Redes Sociales Oficiales| SI         | SI | SI |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
