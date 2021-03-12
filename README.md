@@ -28,7 +28,7 @@ Miembros
 -----
 >Entre las plataformas que hemos visto la que más atractiva nos ha resultado de las tres que hemos analizado ([**Turgranada**](https://www.turgranada.es/), [**Moros y Cristianos de Benamaurel**](http://www.morosycristianosbenamaurel.com/), [**Jaén Paraíso Interior**](https://www.jaenparaisointerior.es/)) ha sido [**Turgranada**](https://www.turgranada.es/) particularmente por la calidad de diseño y su orientación al usuario final, y la variedad de idiomas que presenta.
 
-Para un Analisis Competitivo más completo [consultar aquí](./P1/).
+Para un Analisis Competitivo más completo [consultar aquí](./P1/README.md).
 
 ---
 ![Método UX](img/Persona.png) 1.b Persona
