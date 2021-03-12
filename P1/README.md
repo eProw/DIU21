@@ -1,5 +1,4 @@
 ## DIU - Practica1, entregables
----
 - ### Desk research: Análisis Competencia 
 >Antes de realizar el análisis, hemos de destacar que un factor muy importante para nuestra decisión es que la página tenga el mayor número de idiomas posible, de modo que sea de mayor accesibilidad y alcance al máximo número de personas de todas las zonas del mundo.  
 Procedemos a analizar brevemente las siguientes 3 plataformas de instituciones de información turística que nos han llamado más la atención:
@@ -43,7 +42,6 @@ Permite la visualización de la página en español o inglés según elección, 
 
 >En base a estas comparaciones, hemos decidido escoger [**Turgranada**](https://www.turgranada.es/) por la mayoría de las ventajas que ofrece.
 
----
 - ##  2 Personas 
 
 
