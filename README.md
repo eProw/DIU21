@@ -40,7 +40,7 @@ sea accesible
 
 -https://www.jaenparaisointerior.es/ (- no hay app, diseño pobre, + idioma escaso)
 
-| PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  |Jaén Paraíso Interior|
+| PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  | Jaén Paraíso Interior |
 |:-----------------------:|:----------:|:-----------:|:-------:|
 | Idiomas Disponibles     | 12         | 1  | 2  |
 | Web                     | SI         | SI | SI |
@@ -48,7 +48,8 @@ sea accesible
 | Android                 | SI         | SI | NO |
 | Personalización         | SI         | NO | NO |
 | Contenido Especializado | NO         | SI | NO |
-| Diseño                  | DISEÑADO   |  DISEÑADO | NORMAL |
+| Apariencia              | DISEÑADO   | DISEÑADO | NORMAL |
+| Redes Sociales Oficiales| SI         | NO | SI |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
