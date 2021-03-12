@@ -35,10 +35,20 @@ A destacar: idioma muy importante para este tipo de páginas, objetivo es alcanz
 sea accesible
 
 -https://www.turgranada.es/ <---- (+ idiomas y buen diseño de presentacion, app, permite registro y guardado de informacion propia, - informacion demasiado variada, compleja lectura completa de textos y busqueda de informacion concreta)
+
 -http://www.morosycristianosbenamaurel.com/ (+ portada, app, especializado en eventos particulares, - no tiene más idiomas, solo informacion de eventos)
+
 -https://www.jaenparaisointerior.es/ (- no hay app, diseño pobre, + idioma escaso)
 
-
+| PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  |Jaén Paraíso Interior|
+|:-----------------------:|:----------:|:-----------:|:-------:|
+| Idiomas Disponibles     | 12         | 1  | 2  |
+| Web                     | SI         | SI | SI |
+| IOS                     | SI         | SI | NO |
+| Android                 | SI         | SI | NO |
+| Personalización         | SI         | NO | NO |
+| Contenido Especializado | NO         | SI | NO |
+| Diseño                  | DISEÑADO   |  DISEÑADO | NORMAL |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
