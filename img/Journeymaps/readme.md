@@ -1,0 +1,1 @@
+Imagenes de los dos jouneymaps (uno para cada personaje)
