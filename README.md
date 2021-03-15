@@ -34,8 +34,11 @@ Para un Analisis Competitivo más completo [consultar aquí](./P1/README.md).
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+Para consultar las gráficas de los personajes [consultar aquí](./P1/README.md).
+
+---
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 

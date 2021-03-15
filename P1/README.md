@@ -43,7 +43,9 @@ Permite la visualización de la página en español o inglés según elección, 
 >En base a estas comparaciones, hemos decidido escoger [**Turgranada**](https://www.turgranada.es/) por la mayoría de las ventajas que ofrece.
 
 - ##  2 Personas 
-
+### Ava Bishop
+![AvaBishop](../img/Personajes/AvaBishop.png)
+### Otro
 
 - ## 2 User Journey Map  ( 1 por persona)
 
