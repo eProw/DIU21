@@ -49,7 +49,9 @@ Permite la visualización de la página en español o inglés según elección, 
 ![PaulRomero](../img/Personajes/PaulRomero.png)
 
 - ## 2 User Journey Map  (1 por persona)
-
+### Ava Bishop
+![AvaBishop](../img/Journeymaps/Ava_Journey.png)
+### Paul Romero
 
 - ## Revisión de Usabilidad 
 
