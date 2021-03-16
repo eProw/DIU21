@@ -63,6 +63,11 @@ Como inconveniente, presenta pocos idiomas en comparación a Turgranada, y se de
 ### Paul Romero
 ![PaulRomero](../img/Journeymaps/Paul_Journey.png)
 - ## Revisión de Usabilidad 
+> Enlace al documento: [Usability-review](./Usability-review-ValoraciónUsabilidad.pdf).
 
+> Valoración final: 79/100
 
-(Valoración y conclusiones de esta etapa)
+Comentario sobre la valoración:
+
+> Es una página que muestra bastante completitud en  primera instancia, muestra un diseño claro e intuitivo para el usuario, pero se echan en falta ciertos aspectos a nivel de funcionalidad como por ejemplo la busqueda de información a medida del usuario.
+
