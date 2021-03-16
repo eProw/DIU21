@@ -29,8 +29,16 @@ La información se presenta de manera más sobrecargada, cuenta con un diseño m
 
 Permite la visualización de la página en español o inglés según elección, y muestra información variada a través de redes sociales como Twitter o Facebook, aunque carece de aplicación disponible para dispositivos móviles.
 
-| PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  | Jaén Paraíso Interior |
-|:-----------------------:|:----------:|:-----------:|:-------:|
+**4.**[**Civitatis Granada**](https://www.granada.info/)
+
+Es una página no institucional de la marca de Civitatis Tours, solo lo destacamos porque puede ser competidor de Turgranada.
+
+Está más orientado a viajes turísticas, tiene como ventaja en facilidad de navegar entre sus funciones, fácil en filtrar eventos de distintos tipos y ofrece reservas de movilidades directamente en la página.
+
+Como inconveniente, presenta poco idioma en comparación a Turgranada, y se destaca por su apariecia que está más orientado a parte comercial.
+
+| PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  | Jaén Paraíso Interior | Civitatis Granada |
+|:-----------------------:|:----------:|:-----------:|:-------:|:-------:|
 | Idiomas Disponibles     | 12         | 1  | 2  |
 | Web                     | SI         | SI | SI |
 | IOS                     | SI         | SI | NO |
