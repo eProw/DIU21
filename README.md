@@ -36,14 +36,15 @@ Para un Analisis Competitivo más completo [consultar aquí](./P1/README.md).
 
 > Hemos seleccionado dos personajes: **Ava Bishop** (Perfil extranjero, necesita conocer su entorno para orientarse en la ciudad), y **Paul Romero** (Interesado en realizar actividades de turismo activo para cuidar su cuerpo).
 
-Para consultar las gráficas de los personajes [consultar aquí](./P1/README.md).
+Para consultar las gráficas de los personajes [pulsa aquí](./P1/README.md).
 
 ---
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>Ambas experiencias son representativas para los perfiles de las personas que hemos creado, sea por sus condiciones de movilidad o desinformación. Y concretamente la falta de información es un factor determinante que está presente en la experiencia de los usuarios que deciden planificar una salida en algún sitio de interés.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Para ver los JouneyMaps [consultar aquí](./P1/README.md).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

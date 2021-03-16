@@ -33,20 +33,21 @@ Permite la visualización de la página en español o inglés según elección, 
 
 Es una página no institucional de la marca de Civitatis Tours, solo lo destacamos porque puede ser competidor de Turgranada.
 
-Está más orientado a viajes turísticas, tiene como ventaja en facilidad de navegar entre sus funciones, fácil en filtrar eventos de distintos tipos y ofrece reservas de movilidades directamente en la página.
+Está más orientado a viajes turísticos, tiene como ventaja una mayor facilidad de navegar entre sus menus y en filtrar eventos de distintos tipos, y ofrece reservas de distintos tipos directamente en la página.
 
-Como inconveniente, presenta poco idioma en comparación a Turgranada, y se destaca por su apariecia que está más orientado a parte comercial.
+Como inconveniente, presenta pocos idiomas en comparación a Turgranada, y se destaca por su apariencia que está más orientado a la parte comercial.
 
 | PLATAFORMAS             | Turgranada | Moros y Cristianos de Benamaurel  | Jaén Paraíso Interior | Civitatis Granada |
 |:-----------------------:|:----------:|:-----------:|:-------:|:-------:|
-| Idiomas Disponibles     | 12         | 1  | 2  |
-| Web                     | SI         | SI | SI |
-| IOS                     | SI         | SI | NO |
-| Android                 | SI         | SI | NO |
-| Personalización         | SI         | NO | NO |
-| Contenido Especializado | NO         | SI | NO |
-| Apariencia              | DISEÑADO   | DISEÑADO | NORMAL |
-| Redes Sociales Oficiales| SI         | SI | SI |
+| Idiomas Disponibles     | 12         | 1  | 2  | 3 |
+| Web                     | SI         | SI | SI | SI |
+| IOS                     | SI         | SI | NO | SI |
+| Android                 | SI         | SI | NO | SI |
+| Personalización         | SI         | NO | NO | SI |
+| Contenido Especializado | NO         | SI | NO | NO |
+| Apariencia              | DISEÑADO   | DISEÑADO | NORMAL | DISEÑADO |
+| Redes Sociales Oficiales| SI         | SI | SI | SI |
+| Realización de reservas | NO         | NO | NO | SI |
 
 >En base a estas comparaciones, hemos decidido escoger [**Turgranada**](https://www.turgranada.es/) por la mayoría de las ventajas que ofrece.
 
@@ -60,7 +61,7 @@ Como inconveniente, presenta poco idioma en comparación a Turgranada, y se dest
 ### Ava Bishop
 ![AvaBishop](../img/Journeymaps/Ava_Journey.png)
 ### Paul Romero
-
+![PaulRomero](../img/Journeymaps/Paul_Journey.png)
 - ## Revisión de Usabilidad 
 
 
