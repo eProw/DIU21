@@ -5,11 +5,10 @@ Grupo: DIU2_mastodontes.  Curso: 2020/21
 Updated: 16/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+> GRANADING
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2 (6-10 lineas)
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
