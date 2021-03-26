@@ -53,15 +53,15 @@ Como inconveniente, presenta pocos idiomas en comparación a Turgranada, y se de
 
 - ##  2 Personas 
 ### Ava Bishop
-![AvaBishop](../img/Personajes/AvaBishop.png)
+![AvaBishop](./img/Personajes/AvaBishop.png)
 ### Paul Romero
-![PaulRomero](../img/Personajes/PaulRomero.png)
+![PaulRomero](./img/Personajes/PaulRomero.png)
 
 - ## 2 User Journey Map  (1 por persona)
 ### Ava Bishop
-![AvaBishop](../img/Journeymaps/Ava_Journey.png)
+![AvaBishop](./img/Journeymaps/Ava_Journey.png)
 ### Paul Romero
-![PaulRomero](../img/Journeymaps/Paul_Journey.png)
+![PaulRomero](./img/Journeymaps/Paul_Journey.png)
 - ## Revisión de Usabilidad 
 > Enlace al documento: [Usability-review](./Usability-review-ValoraciónUsabilidad.pdf).
 
