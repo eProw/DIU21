@@ -8,7 +8,7 @@ Proyecto:
 > GRANADING
 
 Descripción: 
->>> Describa la idea de su producto en la práctica 2 (6-10 lineas)
+> Aplicación de turismo para gente no residente en Granada que tiene muy poco conocimiento sobre la zona, centrada principalmente en ofrecer una experiencia fluida y satisfactoria para visitar la provincia 'con todo lujo de detalles'. Traducida a varios idiomas y que permita dar voz a gente que ya la haya visitado a través de la creación de distintos foros en los que otros usuarios podrán comentar, debatir y aconsejar según el tema propuesto. Para habitantes actuales en Granada podrían encontrar fácil y rápido la solución a "dónde ir" ya sea que quieran buscar un sitio cercano o popular.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
