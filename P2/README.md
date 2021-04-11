@@ -39,9 +39,9 @@ Aplicación de turismo para gente no residente en Granada que tiene muy poco con
 
 Es el diagrama que muestra flujos de acciones que hace el usuario para completar un objetivo/tarea concreta, en nuestro caso, representamos por ejemplo los principales objetivos siguientes:
 
->> Objetivo1: Consultar y guardar eventos y sitios preferidos
+>> Objetivo1: Consultar y guardar eventos y sitios preferidos (en diagrama eventos sería eventos/sitios).
 
-
+![TaskFlow1](./img/TaskFlow1.png)
 
 >> Objetivo2: Buscar buses para un sitio concreto.
 
