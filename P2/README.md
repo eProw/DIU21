@@ -37,9 +37,9 @@ Aplicación de turismo para gente no residente en Granada que tiene muy poco con
 
 * User/Task flow
 
-Es el diagrama que muestra flujos de acciones que hace el usuario para completar un objetivo/tarea concreta, en nuestro caso, representamos por ejemplo los principales objetivos siguientes (en el diagrama, los eventos representan tanto los eventos como los sitios):
+Es el diagrama que muestra flujos de acciones que hace el usuario para completar un objetivo/tarea concreta, en nuestro caso, representamos por ejemplo los principales objetivos siguientes:
 
->> Objetivo1: Consultar y guardar eventos y sitios preferidos.
+>> Objetivo1: Consultar y guardar eventos y sitios preferidos (en el diagrama, donde pone eventos/sitios, representa las dos páginas posibilidades seleccionadas según lo que busca).
 
 ![TaskFlow1](./img/TaskFlow1.png)
 
@@ -55,12 +55,11 @@ Es el diagrama que muestra flujos de acciones que hace el usuario para completar
 
 * Sitemap 
 
-
-
-
-
+![Sitemap](./img/Sitemap.png)
 
 * Labelling 
+
+![Labelling](./img/Labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
