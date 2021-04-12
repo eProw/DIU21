@@ -37,21 +37,19 @@ Aplicación de turismo para gente no residente en Granada que tiene muy poco con
 
 * User/Task flow
 
-Es el diagrama que muestra flujos de acciones que hace el usuario para completar un objetivo/tarea concreta, en nuestro caso, representamos por ejemplo los principales objetivos siguientes:
+Es el diagrama que muestra flujos de acciones que hace el usuario para completar un objetivo/tarea concreta, en nuestro caso, representamos por ejemplo los principales objetivos siguientes (en el diagrama, los eventos representan tanto los eventos como los sitios):
 
->> Objetivo1: Consultar y guardar eventos y sitios preferidos (en diagrama eventos sería eventos/sitios).
+>> Objetivo1: Consultar y guardar eventos y sitios preferidos.
 
 ![TaskFlow1](./img/TaskFlow1.png)
 
 >> Objetivo2: Buscar buses para un sitio concreto.
 
-
+![TaskFlow2](./img/TaskFlow2.png)
 
 >> Objetivo3: Reservar un evento (el cuadrado de consulta es el diagrama de objetivo 1)
 
-
-
-
+![TaskFlow3](./img/TaskFlow3.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
