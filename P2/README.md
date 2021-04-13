@@ -65,7 +65,27 @@ Es el diagrama que muestra flujos de acciones que hace el usuario para completar
 
 * Labelling 
 
-![Labelling](./img/Labelling.png)
+Término | Icono | Significado
+| ------------- | ------- | ------- |
+| Ayuda |  |  |
+| Ajustes |  |  |
+| Notificaciones |  |  |
+| Buscar |  |  |
+| Cerrar sesión |  |  |
+| Crear nuevo foro |  |  |
+| Enviar comentario |  |  |
+| Más opciones |  |  |
+| Extensión panel lateral |  |  |
+| Idioma |  |  |
+| Zona personal |  |  |
+|  |  |  |
+|  |  |  |
+
+
+
+
+
+
 
 
 ### Prototipo Lo-FI Wireframe 
