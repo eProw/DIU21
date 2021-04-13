@@ -55,6 +55,10 @@ Es el diagrama que muestra flujos de acciones que hace el usuario para completar
 
 * Sitemap 
 
+>> Leyenda para jerarquía de acceso
+
+![Leyenda](./img/Leyenda.png)
+
 ![Sitemap](./img/Sitemap.png)
 
 * Labelling 
