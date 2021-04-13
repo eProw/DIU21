@@ -59,6 +59,8 @@ Es el diagrama que muestra flujos de acciones que hace el usuario para completar
 
 ![Leyenda](./img/Leyenda.png)
 
+>> Mapa de sitio
+
 ![Sitemap](./img/Sitemap.png)
 
 * Labelling 
