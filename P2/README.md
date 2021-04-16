@@ -67,21 +67,34 @@ Es el diagrama que muestra flujos de acciones que hace el usuario para completar
 
 Término | Icono | Significado
 | ------------- | ------- | ------- |
-| Ayuda |  |  |
-| Ajustes |  |  |
-| Notificaciones |  |  |
-| Buscar |  |  |
-| Cerrar sesión |  |  |
-| Crear nuevo foro |  |  |
-| Enviar comentario |  |  |
-| Más opciones |  |  |
-| Extensión panel lateral |  |  |
-| Idioma |  |  |
-| Zona personal |  |  |
-|  |  |  |
-|  |  |  |
-
-
+| Ayuda en línea | ![Ayuda](./img/Icons/Ayuda.png) | Redirige a la página de ayuda en línea |
+| Ajustes | ![Ajuste](./img/Icons/Ajuste.png) | Redirige a la página de ajustes |
+| Acceder | ![Acceder](./img/Icons/Acceder.png) | Redirige a la página de inicio de sesión |
+| Notificaciones | ![Notificacion](./img/Icons/Notificacion.png) ![Notificacion2](./img/Icons/Notificacion2.png)| Redirige a la página de notificaciones, el circulo rojo se indicaría que haya notificación no leida |
+| Buscar | ![Buscar](./img/Icons/Buscar.png) | Realiza una búsqueda en base a los datos y parámetros establecidos, redirige a la página de busqueda avanzada |
+| Cerrar sesión | ![CerrarSeccion](./img/Icons/CerrarSeccion.png) | Cierra la sesión actual |
+| Favoritos | ![Favorito1](./img/Icons/Favorito1.png) ![Favorito2](./img/Icons/Favorito2.png)| Redirige a la página de favoritos, marca o desmarca como favorito un sitio o evento |
+| Foros | ![Foros](./img/Icons/Foros.png) | Redirige a la página de mis foros, obtiene una lista de foros relacionados con el sitio o evento |
+| Crear nuevo foro | ![NuevoForo](./img/Icons/NuevoForo.png) | Redirige a la página de crear foro nuevo |
+| Enviar | ![Enviar](./img/Icons/Enviar.png) | Envía una pregunta por la ayuda en línea |
+| Subir capturas | ![Upload](./img/Icons/Upload.png) | Enviar capturas desde el dispositivo |
+| Activar/Desactivar | ![NoSeleccionado](./img/Icons/NoSeleccionado.png) ![Seleccionado](./img/Icons/Seleccionado.png)| Marca como activada o desactivada una opción |
+| Extensión panel lateral | ![menu](./img/Icons/Menu.png) | Extensión lateral del menú |
+| Idioma | ![Idioma](./img/Icons/Idioma.png) | Parte para seleccionar idioma |
+| Zona personal | ![Acceder](./img/Icons/Acceder.png) | Botón para acceder a area personal de la cuenta o si no está loggeado pues acceder a log in |
+| Abajo | ![Abajo](./img/Icons/Abajo.png) | Mover hacia abajo |
+| Atras | ![Atras](./img/Icons/Atras.png) | Volver hacia atrás |
+|  | ![Comentarios](./img/Icons/Comentarios.png) | Comentarios en foros |
+| Derecha | ![Derecha](./img/Icons/Derecha.png) | Mover hacia derecha |
+| Izquierda | ![Izquierda](./img/Icons/Izquierda.png) | Mover hacia izquierda |
+| Desplegable | ![Desplegar2](./img/Icons/Desplegar2.png) ![Desplegar](./img/Icons/Desplegar.png) | Un desplegable de contenidos |
+| Login With | ![LoginWith](./img/Icons/LoginWith.png) |  |
+| Compartir | ![Compartir](./img/Icons/Compartir.png) |  |
+| Editar | ![Editar](./img/Icons/Editar.png) |  |
+| Borrar | ![Borrar](./img/Icons/Borrar.png) |  |
+| Me Gusta | ![MeGusta](./img/Icons/MeGusta.png) |  |
+| Responder | ![Responder](./img/Icons/Responder.png) |  |
+| Perfil | ![Perfil](./img/Icons/Perfil.png) |  |
 
 
 
@@ -90,6 +103,7 @@ Término | Icono | Significado
 
 ### Prototipo Lo-FI Wireframe 
 
+![Lo-Fi](./img/Lo-Fi.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En resumen, hemos realizado una vista previa de la aplicación, con las posibles secciones que tendría, además de especificar la funcionalidad general de nuestra propuesta y alizar un bocetado sencillo de las distintas pantallas que mostraría la aplicación, dándole un aspecto más realista.
