@@ -69,7 +69,7 @@ Término | Icono | Significado
 | ------------- | ------- | ------- |
 | Ayuda en línea | ![Ayuda](./img/Icons/Ayuda.png) | Redirige a la página de ayuda en línea |
 | Ajustes | ![Ajuste](./img/Icons/Ajuste.png) | Redirige a la página de ajustes |
-| Acceder | ![Acceder](./img/Icons/Acceder.png) | Redirige a la página de inicio de sesión |
+| Acceder | ![Acceder](./img/Icons/Acceder.png) | Botón para acceder a area personal de la cuenta o si no está loggeado pues acceder a inicio de sesión |
 | Notificaciones | ![Notificacion](./img/Icons/Notificacion.png) ![Notificacion2](./img/Icons/Notificacion2.png)| Redirige a la página de notificaciones, el circulo rojo se indicaría que haya notificación no leida |
 | Buscar | ![Buscar](./img/Icons/Buscar.png) | Realiza una búsqueda en base a los datos y parámetros establecidos, redirige a la página de busqueda avanzada |
 | Cerrar sesión | ![CerrarSeccion](./img/Icons/CerrarSeccion.png) | Cierra la sesión actual |
@@ -81,24 +81,24 @@ Término | Icono | Significado
 | Activar/Desactivar | ![NoSeleccionado](./img/Icons/NoSeleccionado.png) ![Seleccionado](./img/Icons/Seleccionado.png)| Marca como activada o desactivada una opción |
 | Extensión panel lateral | ![menu](./img/Icons/Menu.png) | Extensión lateral del menú |
 | Idioma | ![Idioma](./img/Icons/Idioma.png) | Parte para seleccionar idioma |
-| Zona personal | ![Acceder](./img/Icons/Acceder.png) | Botón para acceder a area personal de la cuenta o si no está loggeado pues acceder a log in |
 | Abajo | ![Abajo](./img/Icons/Abajo.png) | Mover hacia abajo |
 | Atras | ![Atras](./img/Icons/Atras.png) | Volver hacia atrás |
-|  | ![Comentarios](./img/Icons/Comentarios.png) | Comentarios en foros |
+| Comentarios | ![Comentarios](./img/Icons/Comentarios.png) | Comentarios en foros |
 | Derecha | ![Derecha](./img/Icons/Derecha.png) | Mover hacia derecha |
 | Izquierda | ![Izquierda](./img/Icons/Izquierda.png) | Mover hacia izquierda |
 | Desplegable | ![Desplegar2](./img/Icons/Desplegar2.png) ![Desplegar](./img/Icons/Desplegar.png) | Un desplegable de contenidos |
-| Login With | ![LoginWith](./img/Icons/LoginWith.png) |  |
-| Compartir | ![Compartir](./img/Icons/Compartir.png) |  |
-| Editar | ![Editar](./img/Icons/Editar.png) |  |
-| Borrar | ![Borrar](./img/Icons/Borrar.png) |  |
-| Me Gusta | ![MeGusta](./img/Icons/MeGusta.png) |  |
-| Responder | ![Responder](./img/Icons/Responder.png) |  |
-| Perfil | ![Perfil](./img/Icons/Perfil.png) |  |
-
-
-
-
+| Login With | ![LoginWith](./img/Icons/LoginWith.png) | Acceder a la aplicación usando alguna de las tres plataformas |
+| Compartir | ![Compartir](./img/Icons/Compartir.png) | Redirecciona a la plataforma correspondiente para enviar una publicación con el enlace a la noticia ó sección gastronómica |
+| Editar | ![Editar](./img/Icons/Editar.png) | Edita un foro creado por el usuario |
+| Borrar | ![Borrar](./img/Icons/Borrar.png) | Borra un foro creado por el usuario |
+| Me Gusta | ![MeGusta](./img/Icons/MeGusta.png) | Marca como me gusta un comentario del foro, aumentando el número de Me Gusta de dicho comentario|
+| Responder | ![Responder](./img/Icons/Responder.png) | Envía una respuesta al un comentario del foro |
+| Sitios |  | Muestra los distintos sitios que se pueden visitar en la provincia, realizando una búsqueda o en la sección de sitios recomendados para el usuario |
+| Eventos |  | Muestra los distintos eventos a los que se pueden asistir en la provincia, realizando una búsqueda o en la sección de sitios recomendados para el usuario |
+| Noticias |  | Muestra las noticias culturales más actuales |
+| Gastronomía |  | Muestra distintas secciones con información sobre gastronomía popular, recetas y consejos de elaboración |
+| Transporte |  | Muestra las líneas actualmente disponibles de transporte público en la provincia |
+| Sobre nosotros |  | Muestra información sobre la organización que da soporte a la página |
 
 
 ### Prototipo Lo-FI Wireframe 
