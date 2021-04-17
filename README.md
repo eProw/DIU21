@@ -62,48 +62,41 @@ Comentario sobre la valoración:
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+> En nuestro caso, hemos usado los tres diagramas para análisis de este apartado.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+Para verlas [pulse aquí](./P2/README.md).
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+> En base a las tareas realizadas en la práctica anterior, hemos comprobado cuales pueden ser los intereses reales del usuario a partir de la creación de dos personas con gustos e ideales distintos y con sus respectivos journey maps. A raíz de estos, hemos detectado dónde falla la experiencia del usuario en la aplicación que hemos seleccionado para analizar y, fijándonos en los errores que posee a nivel de interacción y navegación, hemos pensado en una nueva aplicación que trate de subsanar dichas imperfecciones para garantizar una experiencia de ususario óptima.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+> Hemos llegado a esta solución del canvas a partir de los intereses y acciones esperadas del usuario en la aplicación (qué es lo que necesita, qué debe de realizar dentro de esta) y los intereses (a corto y largo plazo) y recursos de la organización para medir el éxito de la aplicación. 
+
+Para ver nuestro Propuesta de valor [pulse aquí](./P2/README.md).
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+> Nos permite saber qué tipos de usuarios utilizan la aplicación, y en base a esto saber qué actividades tienen mayor importancia dentro de esta.
 
+Para consultar nuestro User/task matrix y User/Task flow [pulse aquí](./P2/README.md).
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+> Con esto obtenemos una idea más concreta para definir la aplicación, construyendo así de forma simplificada una jerarquía de páginas a partir de las cuales se podrá navegar.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Para consultar nuestro Sitemap y Labelling [pulse aquí](./P2/README.md).
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+> A partir del Sitemap mostrado anteriormente, tendremos la posibilidad de ilustrar con mayor precisión el diseño de nuestra aplicación, ubicando los elementos necesarios en cada página y asignándoles un comportamiento determinado (Wireframe). A los elementos utilizadsos se les asignará un icono que representará su funcionalidad, la cual será descrita en el Labelling.
 
+Para ver Wireframes [pulse aquí](./P2/README.md).
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
