@@ -18,7 +18,12 @@
   |  | Interfaz y estilo de página minimalista, amigable y cercana |  
 
 * Mapa de empatía
+
+![EmpathyMap](./img/EmpathyMap.png)
+
 * Point of View 
+
+![POV](./img/POV.png)
 
 * Descripción del proyecto:
 

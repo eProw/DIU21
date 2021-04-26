@@ -38,6 +38,7 @@ Para un Analisis Competitivo más completo [consultar aquí](./P1/README.md).
 Para consultar las gráficas de los personajes [pulsa aquí](./P1/README.md).
 
 ---
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
