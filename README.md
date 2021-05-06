@@ -11,9 +11,10 @@ Descripción:
 > Aplicación de turismo para gente no residente en Granada que tiene muy poco conocimiento sobre la zona, centrada principalmente en ofrecer una experiencia fluida y satisfactoria para visitar la provincia 'con todo lujo de detalles'. Traducida a varios idiomas y que permita dar voz a gente que ya la haya visitado a través de la creación de distintos foros en los que otros usuarios podrán comentar, debatir y aconsejar según el tema propuesto. Para habitantes actuales en Granada podrían encontrar fácil y rápido la solución a "dónde ir" ya sea que quieran buscar un sitio cercano o popular.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
-Miembros
+<img src="P3/img/logo.png" alt="logo" width="100"/>
+
+Miembros:
  * :bust_in_silhouette:   José Antonio Sánchez Suárez     :octocat:	https://github.com/eProw
  * :bust_in_silhouette:  Weibin Wu     :octocat:	https://github.com/Wei-bin-Wu
 
@@ -105,11 +106,12 @@ Para ver Wireframes [pulse aquí](./P2/README.md).
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+> El logotipo está orientado para que aparezca como icono de app o en distintas redes sociales, debido a su simplicidad y claridad para visualizarse.  
+El herramienta utilizada para la creación del logotipo es la página web de [Canva](https://www.canva.com/), la resolución que vamos a emplear es de 500px x 500px.  
+El estilo de este se quiere relacionar con un estilo 'hecho a mano' y artesanal con ciertas distinciones, como el que se identifica con el folclore andaluz, mezclado con
+un aire moderno y digital, ayudándose mutuamente para ofrecer la mejor experiencia para el turismo. Ello justifica el uso del hashtag ('#') que tiene una verdadera relevancia en el uso de la app para la clasificación de distintos elementos, con la abreviatura del nombre de Granada (GR), y una tipografía que se asocie con la cultura y la historia de la ciudad.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+Para ver nuestro Moodboard (incluido Logotipo) [pulse aquí](./P3/README.md).
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
