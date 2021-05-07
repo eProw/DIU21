@@ -117,26 +117,30 @@ Para ver nuestro Moodboard (incluido Logotipo) [pulse aquí](./P3/README.md).
 ----
 
 
->>> Plantear Landing Page 
+> Usando editor de imagen + adobe XD hemos creado las imágenes y apariencia de un Landing Page.
+
+Para verlo [pulse aquí](./P3/README.md).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+> En nuestro caso, hemos elegido un diseño minimalista y algunos patrones, para más información [pulse aquí](./P3/README.md).
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>  Apartir de el diseño Lo-Fi, usando los elementos que hemos decidido en Moodboard y partiendo de los patrones que hemos decidido en Guidelines, hemos realizado diseño Hi-Fi usando el programa Adobe XD.
+
+Para ver el diseño y la simulación [pulse aquí](./P3/README.md).
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/README.md).
 
 
 ## Paso 4. Evaluación 
