@@ -49,6 +49,16 @@ En cuanto a la elección de colores, se ha optado por una tonalidad en la págin
 <img src="img/Configuracion.png" alt="Configuracion" width="100"/>
 </p>
 
+* Selección de opciones: en alguna de las pantallas (como idioma, opción de filtros...), permitimos seleccionar entre varios opciones, para ello, se usa un patrón Overflow menu.
+<p align="center">
+<img src="img/OverflowMenu.png" alt="OverflowMenu" width="100"/>
+</p>
+
+* Opciones con menu expandible: en algunos otros casos, pues ponemos menu expandible (Expanding navigation drawer), como por ejemplo en eventos/sitios guardado, en búsqueda, etc...
+<p align="center">
+<img src="img/MenuExpandible.png" alt="MenuExpandible" width="100"/>
+</p>
+
 > Ejemplos y páginas de referencia.
 * [Calisteniapp](https://calisteniapp.com/es): Hemos tomado como referencia el diseño simple de esta página, y la forma en la que destaca distintos elementos a partir de una paleta de colores sencilla en la que prevalece una escala de grises oscuros.
 * [Spacex](https://spacex.com): El diseño minimalista basado en imágenes define el estilo de esta página, con el uso de tipografía muy resaltable y borde muy fino de los elementos.
@@ -56,8 +66,12 @@ En cuanto a la elección de colores, se ha optado por una tonalidad en la págin
 
 ## Mockup: LAYOUT HI-FI
 
-> Apartir de el diseño Lo-Fi de práctica pasada, usando los elementos que hemos decidido en Moodboard y partiendo de los patrones que hemos decidido en Guidelines, hemos realizado siguiente diseño Hi-Fi usando el programa Adobe XD: 
+> Apartir de el diseño Lo-Fi de práctica pasada, usando los elementos que hemos decidido en Moodboard y partiendo de los patrones que hemos decidido en Guidelines, hemos realizado siguiente diseño Hi-Fi usando el programa Adobe XD  : 
+>> Hemos tomado las páginas más representativos de los estilos de diseño, los restos de pantallas que aparece en práctica 2 se rediseñaría de la misma manera usando este estilo 
 
+![HI-FI](./img/HI-FI.png)
+
+> Para ver con más claridad [pulse aquí](./DIU_P3_HIFI.pdf)
 
 > Para ver su simulación [pulse aquí](./P2/README.md)
 
@@ -65,8 +79,20 @@ En cuanto a la elección de colores, se ha optado por una tonalidad en la págin
 
 > UX Case Study: [video](./P2/README.md)
 
-> Valoración del equipo:  
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+---
+Tras el inicio de la pandemia, millones de personas se han encontrado limitadas en sus actividades para conocer nuevos lugares y asistir a diferentes eventos. Ello ha generado una mayor dificultad para planificar cualquier salida o desarrollar cualquier actividad que implique la aglomeración de personas en un mismo lugar,
+con lo cual la búsqueda de planes ideales en un entorno como es la ciudad (o sus pueblos cercanos) ha resultado, con razones de peso, algo abrumadoras según el sector de población al que preguntemos.
+Con esta problemática, #Granading propone una forma fácil y cómoda de encontrar sitios que visitar y eventos a los que asistir en la provincia de Granada.
+Uniendo más que nunca a la gente, a través de foros que puedan dar voz a gente que ya hayan contado con la experiencia de visitar distintos sitios, compartir sus opiniones y crear hilos de información sobre viajes.
+Con una interfaz sencilla e intuitiva para buscar acerca de distintos temas y encontrar rápidamente información y consejos para su próxima escapada.
+---
 
+> Valoración del equipo y problemas surgidos:    
+Tras la realización de las 3 primeras secciones de esta práctica hemos valorado altamente las competencias necesarias tras el diseño de una interfaz funcional para el usuario, de forma que no sólo responda eficientemente a las acciones del usuario en la app, sino que además resulte atractiva visualmente y que se pueda navegar con facilidad a través de sus pantallas.
 
- 
+Cabe destacar el análisis previo de una aplicación similar a la que queríamos hacer para fijarnos en qué enfocarnos más a la hora de su puesta en desarrollo: cuales eran sus puntos débiles, en qué aspecto fallaba más y por qué.
+A partir de ello, deducimos un diseño inicial de nuestra aplicación atribuyéndole nuestro propio pensamiento crítico para crear una app que fuese la ideal para nuestro caso.
+Tras el bocetado general se proyectó por simulación una posible realidad de la aplicación, la cual ha satisfecho prácticamente nuestra idea inicial de diseño.
+Podemos decir que uno de los principales factores más complicados en el desarrollo de la práctica ha sido el hecho de reflejarse en la situación de otras personas para elaborar un diseño de personajes y un journey map lo más realista posible, de modo que pudiéramos equiparar sus situaciones con sucesos similares que se dieran en la realidad.
+Mencionar por último la experiencia con la herramienta de diseño Adobe XD, la cual nos ha permitido plasmar con alto nivel de detalle nuestra idea sin necesidad de usar código para previsualizar lo que queríamos desarrollar. A pesar de haber elementos o acciones que nos ha costado replicar un poco de primeras con respecto a los patrones de diseño actuales, el manejo del programa ha resultado bastante intuitivo y fluido, lo que nos ha permitido trabajar con mucha mayor facilidad en la parte de simulación de la aplicación.
+

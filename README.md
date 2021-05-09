@@ -137,10 +137,11 @@ Para ver el diseño y la simulación [pulse aquí](./P3/README.md).
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+> Realizado resumido UX-Case Study en un video corto. Todos documentos publicado en [Github](https://github.com/eProw/DIU21) y video compartido con GoogleDrive.
 
 Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/README.md).
+
+
 
 
 ## Paso 4. Evaluación 
