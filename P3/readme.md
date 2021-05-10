@@ -1,4 +1,4 @@
-# DIU - Practica 3, entregables
+# DIU - Practica 3
 
 ## Moodboard (diseño visual + logotipo)   
 > Uso de una tipografía artísticamente distinta, denota cierta artesanía con la que se trata de identificar el origen folclórico de Granada.
@@ -73,26 +73,24 @@ En cuanto a la elección de colores, se ha optado por una tonalidad en la págin
 
 > Para ver con más claridad [pulse aquí](./DIU_P3_HIFI.pdf)
 
-> Para ver su simulación [pulse aquí](./P2/README.md)
+> Para ver video de su simulación [pulse aquí](https://drive.google.com/file/d/1HoynuFrj1FCan79ju-XzpHh0suU2qHZx/view?usp=sharing)
+
+> Para simular con el fichero compartido de Adobe XD [pulse aquí](https://xd.adobe.com/view/af2ef7ee-9cd4-41c8-9eb6-d96b3ff3f03c-fa7d/)
 
 ## Documentación: Publicación del Case Study
 
-> UX Case Study: [video](./P2/README.md)
+> UX Case Study: [video](https://drive.google.com/file/d/1U9oaubc9Yr5WXv0Jf35ttR5V2KWTuD5q/view?usp=sharing)
 
----
-Tras el inicio de la pandemia, millones de personas se han encontrado limitadas en sus actividades para conocer nuevos lugares y asistir a diferentes eventos. Ello ha generado una mayor dificultad para planificar cualquier salida o desarrollar cualquier actividad que implique la aglomeración de personas en un mismo lugar,
-con lo cual la búsqueda de planes ideales en un entorno como es la ciudad (o sus pueblos cercanos) ha resultado, con razones de peso, algo abrumadoras según el sector de población al que preguntemos.
-Con esta problemática, #Granading propone una forma fácil y cómoda de encontrar sitios que visitar y eventos a los que asistir en la provincia de Granada.
-Uniendo más que nunca a la gente, a través de foros que puedan dar voz a gente que ya hayan contado con la experiencia de visitar distintos sitios, compartir sus opiniones y crear hilos de información sobre viajes.
-Con una interfaz sencilla e intuitiva para buscar acerca de distintos temas y encontrar rápidamente información y consejos para su próxima escapada.
----
 
-> Valoración del equipo y problemas surgidos:    
-Tras la realización de las 3 primeras secciones de esta práctica hemos valorado altamente las competencias necesarias tras el diseño de una interfaz funcional para el usuario, de forma que no sólo responda eficientemente a las acciones del usuario en la app, sino que además resulte atractiva visualmente y que se pueda navegar con facilidad a través de sus pantallas.
+> Valoración del equipo y problemas surgidos: 
+
+Tras la realización de las 3 primeras secciones de esta práctica hemos valorado altamente las competencias necesarias tras el diseño de una interfaz funcional para el usuario, de forma que no sólo responda eficientemente a las acciones del usuario en la app, sino que además resulte atractiva visualmente y que se pueda navegar con facilidad a través de sus pantallas.  
 
 Cabe destacar el análisis previo de una aplicación similar a la que queríamos hacer para fijarnos en qué enfocarnos más a la hora de su puesta en desarrollo: cuales eran sus puntos débiles, en qué aspecto fallaba más y por qué.
 A partir de ello, deducimos un diseño inicial de nuestra aplicación atribuyéndole nuestro propio pensamiento crítico para crear una app que fuese la ideal para nuestro caso.
 Tras el bocetado general se proyectó por simulación una posible realidad de la aplicación, la cual ha satisfecho prácticamente nuestra idea inicial de diseño.
+
 Podemos decir que uno de los principales factores más complicados en el desarrollo de la práctica ha sido el hecho de reflejarse en la situación de otras personas para elaborar un diseño de personajes y un journey map lo más realista posible, de modo que pudiéramos equiparar sus situaciones con sucesos similares que se dieran en la realidad.
+
 Mencionar por último la experiencia con la herramienta de diseño Adobe XD, la cual nos ha permitido plasmar con alto nivel de detalle nuestra idea sin necesidad de usar código para previsualizar lo que queríamos desarrollar. A pesar de haber elementos o acciones que nos ha costado replicar un poco de primeras con respecto a los patrones de diseño actuales, el manejo del programa ha resultado bastante intuitivo y fluido, lo que nos ha permitido trabajar con mucha mayor facilidad en la parte de simulación de la aplicación.
 
