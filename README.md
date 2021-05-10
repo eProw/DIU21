@@ -124,7 +124,9 @@ Para verlo [pulse aquí](./P3/README.md).
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-> En nuestro caso, hemos elegido un diseño minimalista y algunos patrones, para más información [pulse aquí](./P3/README.md).
+> En nuestro caso, hemos elegido un diseño minimalista y algunos patrones.
+
+Para más información [pulse aquí](./P3/README.md).
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -137,12 +139,10 @@ Para ver el diseño y la simulación [pulse aquí](./P3/README.md).
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-> Realizado resumido UX-Case Study en un video corto. Todos documentos publicado en [Github](https://github.com/eProw/DIU21) y video compartido con GoogleDrive.
+> Resumen del UX-Case Study en un video corto. Todos los documentos publicado en [Github](https://github.com/eProw/DIU21), y video compartido con GoogleDrive.  
+También realizado una valoración de equipo y detectando algunos problemas surgidos.
 
 Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/README.md).
-
-
-
 
 ## Paso 4. Evaluación 
 

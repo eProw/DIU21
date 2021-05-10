@@ -75,8 +75,6 @@ En cuanto a la elección de colores, se ha optado por una tonalidad en la págin
 
 > Para ver video de su simulación [pulse aquí](https://drive.google.com/file/d/1HoynuFrj1FCan79ju-XzpHh0suU2qHZx/view?usp=sharing)
 
-> Para simular con el fichero compartido de Adobe XD [pulse aquí](https://xd.adobe.com/view/af2ef7ee-9cd4-41c8-9eb6-d96b3ff3f03c-fa7d/)
-
 ## Documentación: Publicación del Case Study
 
 > UX Case Study: [video](https://drive.google.com/file/d/1U9oaubc9Yr5WXv0Jf35ttR5V2KWTuD5q/view?usp=sharing)
