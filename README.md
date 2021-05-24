@@ -151,7 +151,14 @@ Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/READ
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Breve descripción del caso asignado con enlace a su repositorio Github
+
+> [Acogavi](https://github.com/daviyisu/DIU21)
+Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos.
+
+> [SevillaFácil](https://github.com/laurasanpa/DIU21)
+Aplicación de turismo para la ciudad de Sevilla que ofrece información sobre los sitios más emblemáticos de la ciudad, ofrece una guía gastronómica y una agenda con eventos culturales. 
+Permite a los usuarios comentar mediante posts públicos y participar en las actividades culturales y de ocio propuestas.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -159,13 +166,20 @@ Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/READ
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
+ >Domingo Méndez
+ >Maria del Mar Smith
+ >Francisco Manuel Ortiz
+ >Mario Aguirre
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Domingo Méndez | H / 18   | Estudiante  | Alta       | Introvertido | Móvil    | A 
+| Maria del Mar Smith  | M / 43   | Profesora de religión  | Baja       | Timido       | Móvil        | A 
+| Francisco Manuel Ortiz  | H / 35   | Funcionario de prisiones     | Media        | Emocional    | Móvil      | B 
+| Mario Aguirre  | H / 74   | Jubilado  | Media       | Racional     | Web        | B 
+
+1. Domingo es estudiante de primer curso de la facultad de Odontología de la universidad de Málaga. No hace mucho deporte, y el agobio de las clases hace que quiera salir de vez en cuando de escapada.
+1. María da clase en educación secundaria en un instituto de La Barca de la Florida en Cádiz. A pesar de tener que moverse mucho por su trabajo, quiere preparar un viaje con su marido por su 20 aniversario.
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
