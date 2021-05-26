@@ -150,13 +150,10 @@ Para ver nuestro video de UX-Case Study y la valoración [pulse aquí](./P3/READ
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a su repositorio Github
-
-> [Acogavi](https://github.com/daviyisu/DIU21)
+> A: [Acogavi](https://github.com/daviyisu/DIU21)
 Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos.
 
-> [SevillaFácil](https://github.com/laurasanpa/DIU21)
+> B: [SevillaFácil](https://github.com/laurasanpa/DIU21)
 Aplicación de turismo para la ciudad de Sevilla que ofrece información sobre los sitios más emblemáticos de la ciudad, ofrece una guía gastronómica y una agenda con eventos culturales. 
 Permite a los usuarios comentar mediante posts públicos y participar en las actividades culturales y de ocio propuestas.
 
@@ -164,45 +161,64 @@ Permite a los usuarios comentar mediante posts públicos y participar en las act
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+> Debido a las dificultades para encontrar gente hemos encontrado a 3 posibles usuarios (por ellos hemos pedido en realizar más de un test SUS para proyectos distintos). Estos evaluarán los dos proyectos asignados para la práctica más el nuestro, presentándose de la siguiente forma:
  
- >Domingo Méndez
- >Maria del Mar Smith
- >Francisco Manuel Ortiz
- >Mario Aguirre
+* **Usuario 1:** Un estudiante de ingeniería de telecomunicaciones, le gusta el senderismo por la naturaleza y ver series y películas, con mucha experiencia en el uso de dispositivos Android y ordenadores.
+ 
+* **Usuario 2:**  Un estudiante de doble grado de matemáticas, apasionado de la natación, le gusta salir con amigos y tiene buena experiencia en el uso del móvil y el ordenador de escritorio.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Domingo Méndez | H / 18   | Estudiante  | Alta       | Introvertido | Móvil    | A 
-| Maria del Mar Smith  | M / 43   | Profesora de religión  | Baja       | Timido       | Móvil        | A 
-| Francisco Manuel Ortiz  | H / 35   | Funcionario de prisiones     | Media        | Emocional    | Móvil      | B 
-| Mario Aguirre  | H / 74   | Jubilado  | Media       | Racional     | Web        | B 
+* **Usuario 3:** Una estudiante de ciclo formativo, aficionada en baile urbano, interesada por aspectos como el healthcare, y le gusta investigar temas de mecánica y robótica, posee bastante experiencia con las plataformas móviles y con portátiles.
+ 
 
-1. Domingo es estudiante de primer curso de la facultad de Odontología de la universidad de Málaga. No hace mucho deporte, y el agobio de las clases hace que quiera salir de vez en cuando de escapada.
-1. María da clase en educación secundaria en un instituto de La Barca de la Florida en Cádiz. A pesar de tener que moverse mucho por su trabajo, quiere preparar un viaje con su marido por su 20 aniversario.
+> Tener en cuenta que en la siguiente tabla de los resúmenes de los resultados, **test X** refiere a nuestro proyecto, **test A** refiere a primer equipo compañero y **test B** el segundo.
 
+ | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | Score
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----
+| 1 | H / 23  | Estudiante  | Alta       | Positivo | Android/Ordenadores    | X,A,B | 82.5, 77.5, 55
+| 2  | H / 19   | Estudiante  | Media       | Activo       | Móvil/PC        | A | 87.5
+| 3  | M / 21   | Estudiante  | Media       | Ambiciosa       | Móvil        | X, B | 95, 100
+
+>Metodología
+Para elaborar el test se ha requerido de que las personas dispuestas a evaluar las aplicaciones realicen una serie de tareas. Dado que una de las apps era de un tipo distinto se han diseñado
+tareas concretas para dicho caso.
+
+Para el caso A:
+-Crear una ruta real en la aplicación, pensando en las posibles opciones deseadas para su desarrollo dentro de la app.
+-Crear un hospedaje con toda la información que se considere necesaria.
+
+Para el caso B y X:
+-Buscar un sitio concreto que visitar y obtener información acerca de este.
+-Obtener recomendaciones sobre sitios a los que acudir y obtener información adicional sobre la ciudad.
+-Encontrar todas las acciones que se ofrecen para el usuario dentro de la app.
+
+Cabe destacar que, para la realización de dichas tareas, puesto que no se proporcionaba una aplicación real para cada caso, se ha supuesto la prueba visualizando las distintas 
+capturas hi-fi de la P3 de cada proyecto, y haciendo que el usuario imaginase su experiencia en la aplicación a partir de dichas imágenes, de forma que se obtuviese una opinión lo más abstracta posible.
+
+Para consultar más información y ver informe, conclusión y experiencia de los usuarios [pulse aquí](./P4/README.md). 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+> Usamos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado.
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+En nuestro caso, obtenemos siguientes resultados:
 
+> Como hemos dicho anteriormente, tenemos para cada proyecto dos test con usuarios 1, 2 y 3, lo mismo refiriendo a test X,A,B
+
+![Test X](P4/img/x.png)
+
+![Test A y B](P4/img/ab.png)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+> Report de usabilidad y valoración
 
+Para ver el report y valoración [pulse aquí](./P4/README.md) (todos dentro del informe).
 
+----
 
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
+## Paso 5. Evaluación de Accesibilidad  (No llegado a hacer)
 
 
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
