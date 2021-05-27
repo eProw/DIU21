@@ -167,7 +167,7 @@ Permite a los usuarios comentar mediante posts públicos y participar en las act
  
 * **Usuario 2:**  Un estudiante de doble grado de matemáticas, apasionado de la natación, le gusta salir con amigos y tiene buena experiencia en el uso del móvil y el ordenador de escritorio.
 
-* **Usuario 3:** Una estudiante de ciclo formativo, aficionada en baile urbano, interesada por aspectos como el healthcare, y le gusta investigar temas de mecánica y robótica, posee bastante experiencia con las plataformas móviles y con portátiles.
+* **Usuario 3:** Una estudiante de ciclo formativo, aficionada al baile urbano, interesada por aspectos como el healthcare, y le gusta investigar temas de mecánica y robótica, posee bastante experiencia con las plataformas móviles y con portátiles.
  
 
 > Tener en cuenta que en la siguiente tabla de los resúmenes de los resultados, **test X** refiere a nuestro proyecto, **test A** refiere a primer equipo compañero y **test B** el segundo.

@@ -36,16 +36,16 @@ Permite a los usuarios comentar mediante posts públicos y participar en las act
 
 	Describe la experiencia 1: GRANADING
 
-	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho test para este proyecto opinan que es atractiva visualmente, tiene buen estilo y posee buena combinación de colores, aunque hay ciertos elementos que no parecen estar en el sitio adecuado o que no son de gran relevancia, en particular el Usuario 1, como es una persona ..., al realizar ..., ha encontrado ... , y Usuario 3, ha encontrado ...
+	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho el test para este proyecto opinan que es atractiva visualmente, tiene buen estilo y posee buena combinación de colores, aunque hay ciertos elementos que no parecen estar en el sitio adecuado o que no son de gran relevancia, en particular el Usuario 1, como es una persona ..., al realizar ..., ha encontrado cierta sobrecarga de elementos en el menú lateral , y Usuario 3, ha encontrado secciones como la galería que son de menor relevancia para la funcionalidad de la app
 
 	Describe la experiencia 2: Acogavi
 
-	Tenemos como objetivo ..., en general los usuarios que han hecho test para este proyecto ... , en particular el Usuario 1, ha encontrado ... , y Usuario 2, ha encontrado ...
+	Tenemos como objetivos los siguientes: crear una ruta y usar el sistema de hospedaje en la app, en general los usuarios que han hecho test para este proyecto opinan que es una app bastante sencilla, pero elementos como la página de registro debería relocalizarse según el Usuario 1.
 
 
 	Describe la experiencia 3: SevillaFácil
 
-	Tenemos como objetivo ..., en general los usuarios que han hecho test para este proyecto ... , en particular el Usuario 1, ha encontrado ... , y Usuario 3, ha encontrado ...
+	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho el test para este proyecto opinan que, aunque el diseño es un factor a mejorar en ciertos aspectos, posee una funcionalidad bastante amplia, en particular el Usuario 1, ha encontrado que el diseño es mejorable en la sección del historial y que antes del pago de eventos se debe resaltar algún certificado de pago seguro, y Usuario 3, ha encontrado que a pesar de ciertos aspectos que sobrecargan la app visualmente, es bastante versátil y denota facilidad de uso.
 
 > Apartir de estos experiencias, obtenemos siguientes opiniones.
 
