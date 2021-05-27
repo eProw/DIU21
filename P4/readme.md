@@ -10,17 +10,17 @@ Lista de proyectos (en github):
 Aplicación de turismo para gente no residente en Granada que tiene muy poco conocimiento sobre la zona, centrada principalmente en ofrecer una experiencia fluida y satisfactoria para visitar la provincia 'con todo lujo de detalles'. Traducida a varios idiomas y que permita dar voz a gente que ya la haya visitado a través de la creación de distintos foros en los que otros usuarios podrán comentar, debatir y aconsejar según el tema propuesto. Para habitantes actuales en Granada podrían encontrar fácil y rápido la solución a "dónde ir" ya sea que quieran buscar un sitio cercano o popular.
 
 
-> A partir de la hoja de valoración tiene una puntuación de ... puntos ,para visualizarla [pulse aquí]().
+> A partir de la hoja de valoración tiene una puntuación de 85 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
-> Comentario: 
+> Comentario: Buen trabajo, quizás lo destacable es falta en algunas partes más explicaciones.
 
 ## Caso 2: Acogavi
 
 Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos.
 
-> A partir de la hoja de valoración tiene una puntuación de ... puntos ,para visualizarla [pulse aquí]().
+> A partir de la hoja de valoración tiene una puntuación de 73 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
-> Comentario: 
+> Comentario: Bastante bueno, quizás lo destacable es falta algún campo y un poco más explicaciones
 
 
 ## Caso 3: SevillaFácil
@@ -28,15 +28,15 @@ Aplicación para organizar viajes y para hospedar gente que cuenta con un sistem
 Aplicación de turismo para la ciudad de Sevilla que ofrece información sobre los sitios más emblemáticos de la ciudad, ofrece una guía gastronómica y una agenda con eventos culturales. 
 Permite a los usuarios comentar mediante posts públicos y participar en las actividades culturales y de ocio propuestas.
 
-> A partir de la hoja de valoración tiene una puntuación de ... puntos ,para visualizarla [pulse aquí]().
+> A partir de la hoja de valoración tiene una puntuación de 76 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
-> Comentario: 
+> Comentario: Bastante bueno y completo, quizás lo destacable es que ha metido los ficheros y en readme no hay redirección suficiente para encontrar.
 
 ## User Testing
 
 	Describe la experiencia 1: GRANADING
 
-	Tenemos como objetivo ..., en general los usuarios que han hecho test para este proyecto ... , en particular el Usuario 1, como es una persona ..., al realizar ..., ha encontrado ... , y Usuario 3, ha encontrado ...
+	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho test para este proyecto opinan que es atractiva visualmente, tiene buen estilo y posee buena combinación de colores, aunque hay ciertos elementos que no parecen estar en el sitio adecuado o que no son de gran relevancia, en particular el Usuario 1, como es una persona ..., al realizar ..., ha encontrado ... , y Usuario 3, ha encontrado ...
 
 	Describe la experiencia 2: Acogavi
 
