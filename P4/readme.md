@@ -36,7 +36,7 @@ Permite a los usuarios comentar mediante posts públicos y participar en las act
 
 	Describe la experiencia 1: GRANADING
 
-	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho el test para este proyecto opinan que es atractiva visualmente, tiene buen estilo y posee buena combinación de colores, aunque hay ciertos elementos que no parecen estar en el sitio adecuado o que no son de gran relevancia, en particular el Usuario 1, como es una persona ..., al realizar ..., ha encontrado cierta sobrecarga de elementos en el menú lateral , y Usuario 3, ha encontrado secciones como la galería que son de menor relevancia para la funcionalidad de la app
+	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho el test para este proyecto opinan que es atractiva visualmente, tiene buen estilo y posee buena combinación de colores, aunque hay ciertos elementos que no parecen estar en el sitio adecuado o que no son de gran relevancia, en particular el Usuario 1, ha encontrado cierta sobrecarga de elementos en el menú lateral , y Usuario 3, ha encontrado secciones como la galería que son de menor relevancia para la funcionalidad de la app
 
 	Describe la experiencia 2: Acogavi
 
