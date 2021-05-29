@@ -1,3 +1,12 @@
+Autores:
+
+Sánchez Suárez, José Antonio   
+Wu, Weibin
+
+
+Github: https://github.com/eProw/DIU21
+
+----
 # DIU - Practica 4
 
 Lista de proyectos (en github):
@@ -10,7 +19,7 @@ Lista de proyectos (en github):
 Aplicación de turismo para gente no residente en Granada que tiene muy poco conocimiento sobre la zona, centrada principalmente en ofrecer una experiencia fluida y satisfactoria para visitar la provincia 'con todo lujo de detalles'. Traducida a varios idiomas y que permita dar voz a gente que ya la haya visitado a través de la creación de distintos foros en los que otros usuarios podrán comentar, debatir y aconsejar según el tema propuesto. Para habitantes actuales en Granada podrían encontrar fácil y rápido la solución a "dónde ir" ya sea que quieran buscar un sitio cercano o popular.
 
 
-> A partir de la hoja de valoración tiene una puntuación de 85 puntos ,para visualizarla [pulse aquí](https://github.com/eProw/DIU21/tree/master/P4/UXCaseStudy-review).
+> A partir de la hoja de valoración tiene una puntuación de 85 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
 > Comentario: Buen trabajo, quizás lo destacable es falta en algunas partes más explicaciones.
 
@@ -18,7 +27,7 @@ Aplicación de turismo para gente no residente en Granada que tiene muy poco con
 
 Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos.
 
-> A partir de la hoja de valoración tiene una puntuación de 73 puntos ,para visualizarla [pulse aquí](https://github.com/eProw/DIU21/tree/master/P4/UXCaseStudy-review).
+> A partir de la hoja de valoración tiene una puntuación de 73 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
 > Comentario: Bastante bueno, quizás lo destacable es falta algún campo y un poco más explicaciones
 
@@ -28,11 +37,58 @@ Aplicación para organizar viajes y para hospedar gente que cuenta con un sistem
 Aplicación de turismo para la ciudad de Sevilla que ofrece información sobre los sitios más emblemáticos de la ciudad, ofrece una guía gastronómica y una agenda con eventos culturales. 
 Permite a los usuarios comentar mediante posts públicos y participar en las actividades culturales y de ocio propuestas.
 
-> A partir de la hoja de valoración tiene una puntuación de 76 puntos ,para visualizarla [pulse aquí](https://github.com/eProw/DIU21/tree/master/P4/UXCaseStudy-review).
+> A partir de la hoja de valoración tiene una puntuación de 76 puntos ,para visualizarla [pulse aquí](./UXCaseStudy-review).
 
 > Comentario: Bastante bueno y completo, quizás lo destacable es que ha metido los ficheros y en readme no hay redirección suficiente para encontrar.
 
+## Cuestionario SUS
+
+
+> Usamos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado.
+
+En nuestro caso, obtenemos siguientes resultados:
+
+> Como hemos dicho anteriormente, tenemos para cada proyecto dos test con usuarios 1, 2 y 3, lo mismo refiriendo a test X,A,B
+
+![Test X](./img/x.png)
+
+![Test A y B](./img/ab.png)
+
+
 ## User Testing
+> Debido a las dificultades para encontrar gente hemos encontrado a 3 posibles usuarios (por ellos hemos pedido en realizar más de un test SUS para proyectos distintos). Estos evaluarán los dos proyectos asignados para la práctica más el nuestro, presentándose de la siguiente forma:
+ 
+* **Usuario 1:** Un estudiante de ingeniería de telecomunicaciones, le gusta el senderismo por la naturaleza y ver series y películas, con mucha experiencia en el uso de dispositivos Android y ordenadores.
+ 
+* **Usuario 2:**  Un estudiante de doble grado de matemáticas, apasionado de la natación, le gusta salir con amigos y tiene buena experiencia en el uso del móvil y el ordenador de escritorio.
+
+* **Usuario 3:** Una estudiante de ciclo formativo, aficionada al baile urbano, interesada por aspectos como el healthcare, y le gusta investigar temas de mecánica y robótica, posee bastante experiencia con las plataformas móviles y con portátiles.
+ 
+
+> Tener en cuenta que en la siguiente tabla de los resúmenes de los resultados, **test X** refiere a nuestro proyecto, **test A** refiere a primer equipo compañero y **test B** el segundo.
+
+ | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | Score
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----
+| 1 | H / 23  | Estudiante  | Alta       | Positivo | Android/Ordenadores    | X,A,B | 82.5, 77.5, 55
+| 2  | H / 19   | Estudiante  | Media       | Activo       | Móvil/PC        | A | 87.5
+| 3  | M / 21   | Estudiante  | Media       | Ambiciosa       | Móvil        | X, B | 95, 100
+
+>Metodología
+Para elaborar el test se ha requerido de que las personas dispuestas a evaluar las aplicaciones realicen una serie de tareas. Dado que una de las apps era de un tipo distinto se han diseñado
+tareas concretas para dicho caso.
+
+Para el caso A:
+-Crear una ruta real en la aplicación, pensando en las posibles opciones deseadas para su desarrollo dentro de la app.
+-Crear un hospedaje con toda la información que se considere necesaria.
+
+Para el caso B y X:
+-Buscar un sitio concreto que visitar y obtener información acerca de este.
+-Obtener recomendaciones sobre sitios a los que acudir y obtener información adicional sobre la ciudad.
+-Encontrar todas las acciones que se ofrecen para el usuario dentro de la app.
+
+Cabe destacar que, para la realización de dichas tareas, puesto que no se proporcionaba una aplicación real para cada caso, se ha supuesto la prueba visualizando las distintas 
+capturas hi-fi de la P3 de cada proyecto, y haciendo que el usuario imaginase su experiencia en la aplicación a partir de dichas imágenes, de forma que se obtuviese una opinión lo más abstracta posible.
+
 
 	Describe la experiencia 1: GRANADING
 
@@ -46,8 +102,6 @@ Permite a los usuarios comentar mediante posts públicos y participar en las act
 	Describe la experiencia 3: SevillaFácil
 
 	Tenemos como objetivos los siguientes: buscar sistios que visitar, obtener recomendaciones en la app y obtener la lista de acciones disponibles, en general los usuarios que han hecho el test para este proyecto opinan que, aunque el diseño es un factor a mejorar en ciertos aspectos, posee una funcionalidad bastante amplia, en particular el Usuario 1, ha encontrado que el diseño es mejorable en la sección del historial y que antes del pago de eventos se debe resaltar algún certificado de pago seguro, y Usuario 3, ha encontrado que a pesar de ciertos aspectos que sobrecargan la app visualmente, es bastante versátil y denota facilidad de uso.
-
-> Para ver informe [pulse aquí](https://github.com/eProw/DIU21/tree/master/P4/Informe).
 
 > Apartir de estos experiencias, obtenemos siguientes opiniones.
 
@@ -73,6 +127,7 @@ que hubiera disponible una opción de pago, tendría mayor seguridad indicándom
 Tiene en cuenta también la accesibilidad lo cual es bastante importante así que 10/10.
 Lo único que veo, y esto ya es a nivel estético, es que los background de "explora" sobrecargan un poco el diseño, 
 pero ya digo, es algo muy subjetivo porque me gustan las cosas muy simples rozando el minimalismo.
+
 
 ## Conclusiones
 
