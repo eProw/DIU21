@@ -205,9 +205,9 @@ En nuestro caso, obtenemos siguientes resultados:
 
 > Como hemos dicho anteriormente, tenemos para cada proyecto dos test con usuarios 1, 2 y 3, lo mismo refiriendo a test X,A,B
 
-![Test X](P4/img/x.png)
+![Test X](./P4/img/x.PNG)
 
-![Test A y B](P4/img/ab.png)
+![Test A y B](./P4/img/ab.PNG)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
